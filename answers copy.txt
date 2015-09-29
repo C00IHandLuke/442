@@ -1,0 +1,45 @@
+1.
+a. the light in his eyes was like a green flame as he sped back to murder the hobbit and recover his precious dot just in time bilbo saw his peril comma and he fled blindly up the passage away from the water and once more he was saved by his luck dot for as her an he put his hand in his pocket comma and the ring slipped quietly onto his finger dot so it was that gollum passed him without seeing him comma and went to guard the wayout comma lest the thief should escape dot warily bilbo followed him comma as he went a long comma cursing comma and talking to himself about his precious from which talk at last even bilbo guessed the truth comma and hope came to him in the darkness he himself had found the marvellous ring and a chance of escape from the orcs and from gollum
+
+b.Monoalphabetic Substitution Cipher
+
+c.
+q=e
+o=a
+y=t
+v=h
+k=l
+m=i
+p=g
+r=n
+h=s
+l=y
+g=w
+s=k
+a=r
+d=b
+b=c
+n=d
+t=v
+i=u
+w=p
+z=j
+j=m
+e=f
+f=q
+
+d. First I eliminated a simple cesar cipher then I used a frequency analysis 
+to rank to top used letter in the cipher and then counted how many short words
+were created by changing. I counted "is","it", "as", "in", "if", "to", "the",
+"and", "was", "his" and "her".  Then I used the combination of the frequency
+analysis and the short word count to improve my choices.  
+
+2.
+a.unable
+b.it is a playfair cipher, I was able to eliminate all the other possibilities but not able to solve it.
+c.
+d.
+
+3.
+
+4.
